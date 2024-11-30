@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./chunks/framework.Cy5ZJKdt.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"webGISDev/Openlayers_Map.md","filePath":"webGISDev/Openlayers_Map.md"}'),r={name:"webGISDev/Openlayers_Map.md"};function s(n,p,o,c,_,l){return t(),a("div")}const m=e(r,[["render",s]]);export{i as __pageData,m as default};
