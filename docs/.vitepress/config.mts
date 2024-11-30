@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 export default defineConfig({
-  base:'linlei.github.io',
+  base:'/linlei.github.io/',
   title: "Codery's 的开发文档",
   description: "Codery's Blog Site",
   // header标签里面插入的内容
